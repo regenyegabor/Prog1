@@ -1,0 +1,28 @@
+14 drill
+Virtuális kulcs : Definiáljuk hogy lesz egy függvény ami majd valahogy viselkedni fog
+= 0 , nincsen implementációja ettől absztrakt lesz az osztály
+nem tudjuk használni amig felülnem irjuk ami absztrakká nem teszi
+D2 tudjuk csak meghivni mert az irja felül 
+Absztraktak nevezünk egy osztályt ha van legalább egy függvénye aminek nincsen törzse.
+n s primitiv változó, értéket kapnak.
+B2 nem örököl senkitől. =0 a függvény ezért absztrakt
+
+
+15 drill
+konstrokturba várja a 3 értéket amivel dolgozni fog
+Operátor túltöltödés miatt kell, a saját tipus miatt kell.
+
+
+Getterekkel elérjük a privát dolgokat.
+
+
+
+19 drill
+Val mutatja hogy nem tudjuk miyen érték lesz
+Template lehetővé teszi hogy egy függvény vagy osztály sok különböző adattípuson dolgozzon anélkül, hogy mindegyikhez újraírnák.
+
+
+Map arra szolgál hogy kulcs értéket hozunk létre
+Map kettő adatot vár a stringet meg az intet
+//Map automatikusan rendezi a saját elemeit
+
